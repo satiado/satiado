@@ -1,4 +1,10 @@
-## Hi there 👋
+Me chamo Satio Daniel
+
+Estou cursando Desenvolvimento de Software Múltiplataforma pela Fatec de Registro
+
+Técnico de vendas pela Capitão Bernardo Ferreira Machado
+
+Auxíliar técnico em Informática para a Internet pela Classe descentralizada de Jacupiranga
 
 <!--
 **satiado/satiado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
